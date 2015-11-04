@@ -2,6 +2,8 @@ Cozy
 ========
 --------------------------------
 
+[![Join the chat at https://gitter.im/MaxTan/cozy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MaxTan/cozy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <b>这是一个用于学习C＃的开源项目 && 做点东西玩玩</b>
 
 交流QQ群 - 373862115
